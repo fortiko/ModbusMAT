@@ -7,10 +7,10 @@ In my intensive use of modbus protocol in engineering applications, I had to use
 
 ModbusMAT is my Modbus test program for the system integrators. The project is freeware. However, it is one the most functional modbus test programs.
 
-## Download
- [ModbusMAT 1.1.zip](https://github.com/fortiko/ModbusMAT/files/14751225/ModbusMAT.1.1.zip)
-
 Considering the flexibility for the future, I have used C++ language,  written all serial classes and modbus classes individually and  not used any serial or modbus component from a third party company.
+
+## Download
+[ModbusMAT 1.1.zip](https://github.com/fortiko/ModbusMAT/raw/main/ModbusMAT%201.1.zip)
 
 ## CURRENT FUNCTIONALTY  
 
